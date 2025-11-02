@@ -11,7 +11,7 @@
 •	детально изучить, как происходит покупка эпических предметов внутри игры.
 
 ## ER-диаграмма данных
-![ER-диаграмма данных](<img width="1020" height="674" alt="er_online_game" src="https://github.com/user-attachments/assets/2ac450e8-4788-4bde-830e-8f25fa5b1b11" />)
+![ER-диаграмма данных](https://github.com/user-attachments/assets/2ac450e8-4788-4bde-830e-8f25fa5b1b11)
 
 ## Описание таблиц
 **Таблица `users`** - Содержит информацию об игроках
