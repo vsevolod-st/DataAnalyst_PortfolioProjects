@@ -34,3 +34,11 @@ ___
 * Python, Jupyter Notebook
 
 ___
+
+### Анализ результатов A/B-тестирования для интернет-магазина
+[Описание проекта](https://github.com/vsevolod-st/DataAnalyst_PortfolioProjects/tree/master/Python_AB-test_Online_Store) | [Проверка A/B теста](https://github.com/vsevolod-st/DataAnalyst_PortfolioProjects/blob/master/Python_AB-test_Online_Store/Online_Store_AB-test.ipynb)
+
+**Стек инструментов:**
+* Python, Jupyter Notebook
+
+___
